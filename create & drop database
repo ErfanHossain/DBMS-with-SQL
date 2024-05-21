@@ -1,0 +1,2 @@
+CREATE DATABASE Erfan;  //Here create database is a command to create a database and Erfan is a Database Name.
+DROP DATABASE Erfan;  //Here Drop database is a command to delete a database and Erfan is a Database Name. If the Erfan database is available in your server then it drops otherwise not
